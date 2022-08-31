@@ -1,0 +1,50 @@
++ - - - - - - - - - - - - - - - +
+| V A S - G E N E R A T O R     |
+|   INSTRUCTIONS                |
+|   http://www.vasgenerator.net |
++ - - - - - - - - - - - - - - - +
+
+This is an instruction to include the VAS you created with
+the VAS-Generator in your survey. If you have any questions
+or want to comment the VAS-Generator feel free to email us:
+vasgenerator@nonfx.net
+
++ - - - - - - - - - - - - - - - +
+
+A) Preparation
+
+Step A.1
+Create your personal VAS with VAS Generator and download it.
+Change the file extention from ".php" to ".html" or ".htm"
+(only necessary if your server does not support php)
+
+Step A.2
+Copy your_vas.php in this folder
+
++ - - - - - - - - - - - - - - - +
+
+B) Adjustments
+
+Step B.1
+Adjust the following names in html document (from top to bottom):
+- YOUR_PAGE_TITLE : Title of page
+- YOUR_NEXT_PAGE  : Name of the next page in your survey.
+- YOUR_VAS_ITEM   : Name/Number of Item (if you use multiple VAS in
+one survey you have to give each VAS a different name)
+
+Step B.2
+If you want to include VAS into an existing survey, just make
+sure that yourvas.html and both file folders "js" and "pics" are
+in the same folder.
+
++ - - - - - - - - - - - - - - - +
+
+C) Acknowledgement
+
+Thanks to
+Walter Zorn (http://www.walterzorn.com)
+and
+Timo Gnambs (http://timo.gnambs.at)
+for the technical realisation of the digital VAS!
+
++ - - - - - - - - - - - - - - - +
